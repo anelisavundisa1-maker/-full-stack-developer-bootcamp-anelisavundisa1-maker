@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import BrewCard from './components/brewCard'
+import BrewCard from './components/BrewCard'
 import BrewForm from './components/BrewForm'
 import './App.css'
 
